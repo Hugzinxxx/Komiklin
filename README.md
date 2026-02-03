@@ -10,6 +10,7 @@ Kunjungi website resmi atau akses versi web melalui tautan berikut:
 
 * **Website Resmi / Web App:** [https://komiklin.fun/](https://komiklin.fun/)
 * **Unduh APK:** [https://komiklin.fun/](https://komiklin.fun/)
+* **Dokumentasi Komiklin:** [https://komiklin.hashnode.space/default-guide/introduction](https://komiklin.hashnode.space/default-guide/introduction)
 
 ## ✨ Fitur Utama
 
