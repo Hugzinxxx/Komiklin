@@ -7,7 +7,7 @@ Komiklin adalah aplikasi Flutter untuk membaca manga dengan fitur lengkap: bookm
 Kunjungi website resmi atau akses versi web melalui tautan berikut:
 
 * **Website Resmi / Web App:** [https://komiklin.fun/](https://komiklin.fun/)
-* **Unduh APK:** [https://komiklin.fun/](https://komiklin.fun/) *(Jika file unduhan tersedia di halaman yang sama)*
+* **Unduh APK:** [https://komiklin.fun/](https://komiklin.fun/)
 
 ## ✨ Fitur Utama
 
