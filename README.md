@@ -1,6 +1,6 @@
 # Komiklin — Aplikasi Baca Manga 📱
 
-<img src="https://i.ibb.co.com/GvHX1kTk/Komik.png" width="600" align-items=center; />
+<img src="[https://i.ibb.co.com/GvHX1kTk/Komik.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1770086828696/b3be0b8a-2939-4e16-a2d1-48b8a35dc6cf.png?auto=compress,format&format=webp&q=75)" width="600" align-items=center; />
 
 Komiklin adalah aplikasi Flutter untuk membaca manga dengan fitur lengkap: bookmark, riwayat baca, unduhan untuk dibaca offline, chat, komentar, teman, leaderboard, notifikasi push, serta login sosial.
 
